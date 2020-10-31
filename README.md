@@ -7,3 +7,5 @@ A Material Palenight theme based on https://github.com/whizkydee/vscode-palenigh
 2. Press `ctrl+,` or open settings via the dropdown.
 3. Locate the `schemes` array in the config file.
 4. Paste the JSON content from the `schemes.json` in this repo.
+5. Locate the `defaults` property in the config, and add `"colorScheme": "Palenight"`.
+6. Restart the terminal.
